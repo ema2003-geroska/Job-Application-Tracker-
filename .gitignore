@@ -1,5 +1,7 @@
-target/
-.idea/
-*.iml
+node_modules/
 .env
-.DS_Store
+dist/
+build/
+.idea/
+.vscode/
+*.log
